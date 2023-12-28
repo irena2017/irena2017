@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @irena201
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-irena2017/irena2017 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Irena, a back-end developer.
+- 💞️ I’m interested in programming.
+- 👀 I’m looking to collaborate on Java projects.
+- 📫 My email is irenablagojevic89@gmail.com
